@@ -6,7 +6,7 @@ export default function Nav() {
       <header>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
           <a class="navbar-brand" href="#">
-            AppTrack
+            PropTrack
           </a>
           <button
             class="navbar-toggler"
@@ -28,12 +28,12 @@ export default function Nav() {
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
-                  Link
+                  Property
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#">
-                  Disabled
+                  Report
                 </a>
               </li>
             </ul>

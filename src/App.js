@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
 import Nav from "./component/layout/Nav/Nav";
+import JumboBox from "./component/layout/Search/JumboBox";
 import Search from "./component/layout/Search/Search";
 import Web3 from "aion-web3";
 
@@ -108,6 +109,7 @@ export default class App extends Component {
     return (
       <div>
         <Nav />
+        <JumboBox />
         <Search />
       </div>
     );
