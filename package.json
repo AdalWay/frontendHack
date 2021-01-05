@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "aion-web3": "^1.2.5-beta.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "node-zip": "^1.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
